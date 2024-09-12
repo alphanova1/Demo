@@ -1,0 +1,5 @@
+s= input("Enter the string: ")
+sta= int(input("Start from: "))
+end= int(input("End at: "))
+itr= int(input("Interval: "))
+print(s[sta:end:itr])
